@@ -100,13 +100,6 @@
                 "description": "Мурманские кальмары с чесночным маслом",
                 "price": 420,
                 "image": "img/gusi-lebedi/squid.jpg"
-            },
-            {
-                "id": "gl09",
-                "name": "Щучья уха на карасях",
-                "description": "Наваристая походная уха на четырех рыбах, лаврухе, перце и луке с водкой.",
-                "price": 380,
-                "image": "img/gusi-lebedi/ear.jpg"
             }
         ],
         "palki-skalki": [
