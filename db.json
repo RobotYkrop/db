@@ -1,5 +1,4 @@
 {
-    "db": {
         "food-band": [
             {
                 "id": "fb01",
@@ -183,5 +182,4 @@
                 "image": "img/pizza-burger/pizza-pepperoni.jpg"
             }
         ]
-    }
 }
