@@ -181,13 +181,6 @@
                 "description": "Сыр моцарелла, пицца соус, шампиньоны, пепперони",
                 "price": 475,
                 "image": "img/pizza-burger/pizza-pepperoni.jpg"
-            },
-            {
-                "id": "pb06",
-                "name": "Пицца Дачная",
-                "description": "Сыр моцарелла, пицца соус, бекон, картофель фри, куриная грудка, помидоры, пепперони, ветчина, зелень",
-                "price": 649,
-                "image": "img/pizza-burger/pizza-dacha.jpg"
             }
         ]
     }
